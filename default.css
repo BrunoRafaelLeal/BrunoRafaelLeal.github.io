@@ -102,6 +102,13 @@ hr {
 	margin: 0px auto;
 }
 
+.container-block {
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+    width: 700px;	
+}
+
 .clearfix {
 	clear: both;
 }
