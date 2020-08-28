@@ -102,6 +102,11 @@ hr {
 	margin: 0px auto;
 }
 
+.container-block {
+	width: min-content;
+	margin: 0px auto;
+}
+
 .clearfix {
 	clear: both;
 }
