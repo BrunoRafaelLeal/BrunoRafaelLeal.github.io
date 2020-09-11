@@ -9,18 +9,6 @@
             "request": "launch",
             "name": "Open index.html from BrunoRafaelLeal",
             "file": "c:\\Users\\Bruno\\Documents\\GitHub\\BrunoRafaelLeal.github.io\\index.html"
-        },
-        {
-            "type": "pwa-chrome",
-            "request": "launch",
-            "name": "Open index.html from INE5646-Pagina-Pessoal-Basica",
-            "file": "c:\\Users\\Bruno\\Documents\\GitHub\\INE5646-Pagina-Pessoal-Basica\\index.html"
-        },
-        {
-            "type": "pwa-chrome",
-            "request": "launch",
-            "name": "Open index.html from Pagina-Pessoal",
-            "file": "c:\\Users\\Bruno\\Documents\\GitHub\\INE5646-Pagina-Pessoal\\index.html"
         }
     ]
 }
