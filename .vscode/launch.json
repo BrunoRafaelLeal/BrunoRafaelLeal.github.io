@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html from BrunoRafaelLeal",
-            "file": "c:\\Users\\Bruno\\Documents\\GitHub\\BrunoRafaelLeal.github.io\\index.html"
+            "file": "index.html"
         }
     ]
 }
